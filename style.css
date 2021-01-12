@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #19849b;
+}
+body {
+  background-color: #3a3131;
+}
+
+header.header {
+  height: 56px;
+  text-align: center;
+  margin-bottom: 51px;
+}
+
+.row.hero {
+  margin-left: 49px;
+}
+.col-12.header img {
+  margin-top: 18px;
+  margin-right: 11px;
+}
+
+.col-7.hero_text h1 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 30px;
+}
+
+.col-7.hero_text h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 27px;
+  margin-left: 31px;
+}
+
+.col-7.hero_text p {
+  font-size: 16px;
+  margin-top: 29px;
+  line-height: 1.2;
+  margin-left: 29px;
+}
+
+input.contact {
+  width: 290px;
+  height: 49px;
+  border: 3px solid white;
+  margin-left: 32px;
+  margin-top: 12px;
+  font-size: 16px;
+  font-weight: 700;
+  text-align: center;
+  font-family: ubuntu;
+  color: white;
+  background-color: #3a3131;
+}
+
+.row.portfolio {
+  margin-top: 100px;
+  margin-left: 48px;
+  font-size: 24px;
+  font-weight: 700;
+  font-family: "UBUNTU";
+}
+
+.row.portfolio p {
+  font-size: 16px;
+  line-height: 1.2;
+}
