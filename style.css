@@ -9,6 +9,10 @@ body {
   color: white;
 }
 
+button.btn.btn-secondary:hover {
+  background-color: #19849b;
+}
+
 /* header */
 header {
   background-color: #19849b;
@@ -75,6 +79,7 @@ button.btn.btn-secondary {
 .portfolio-img {
   margin-right: -6px;
   margin-top: -3px;
+  margin-bottom: 7px;
 }
 
 .hero img {
@@ -149,8 +154,8 @@ button.btn.btn-secondary {
 
 /* Gallery */
 
-.gallery-photo.col-3 {
-  margin-bottom: 20px;
+.gallery-photo {
+  margin-top: 54px;
 }
 
 /* modal */

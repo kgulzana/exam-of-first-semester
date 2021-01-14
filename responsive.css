@@ -1,0 +1,13 @@
+@media (min-width: 576px) {
+  button.btn.btn-secondary:hover {
+    background-color: #19849b;
+  }
+
+  .row.portfolio {
+    margin-left: -7px;
+  }
+
+  .row.hero {
+    margin-left: 25px;
+  }
+}
